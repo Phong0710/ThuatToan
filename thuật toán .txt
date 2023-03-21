@@ -1,0 +1,15 @@
+- gán
+- khởi tạo
+- so sánh
+- truy xuất phần tử mảng
+- phép xuất
+
+- O(...) => độ phức tạp
+    + O(log n), O(1)
+    + O(n)
+    + O(n log n)
+    + O(n^2)
+    + O(2^n)
+    + O(n!)
+
+---------------------------BTVN----------------------------
